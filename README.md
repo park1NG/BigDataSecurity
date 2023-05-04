@@ -1,5 +1,7 @@
 # BigDataSecurity Team Project 
 
+## Main paper : [Malware Detection through memory forensics.pdf](https://github.com/ckj18/BigDataSecurity/files/11396072/Malware.Detection.through.memory.forensics.pdf)
+
 ## Rule 
 
 ### 1. 모델의 최종학습은 팀장의 개발 환경에서 실행 
